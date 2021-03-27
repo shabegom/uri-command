@@ -1,4 +1,4 @@
-# URI Command Obsidian PLugin
+# URI Command Obsidian Plugin
 Execute a command palette command via an Obsidian URI.
 
 ## WARNING
