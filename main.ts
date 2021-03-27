@@ -37,6 +37,7 @@ export default class MyPlugin extends Plugin {
   async commandHandler(params: { id: string }) {
     let commandId = params.id;
     this.app.commands.executeCommandById(commandId);
+    console.log("command executed");
   }
 
   async loadSettings() {
