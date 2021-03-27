@@ -1,11 +1,10 @@
 # URI Command Obsidian PLugin
+Execute a command palette command via an Obsidian URI.
 
 ## WARNING
 **Using this could execute have unintended consequences. You could inadvertanly run a command by clicking on a link outside of Obsidian (in your browser) with unintended consequences. Be sure you know what you're doing and use at your own risk**
 
-**I had to extetend the base Obsidian API to use `executeCommandById()` so this may break at some point**
-
-Execute a command palette command via an Obsidian URI.
+**I had to extend the base Obsidian API to use `executeCommandById()` so this may break at some point**
 
 ## Idea
 
